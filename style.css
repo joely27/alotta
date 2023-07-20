@@ -54,7 +54,7 @@ display: none;
 
   .item {
     word-wrap: break-word;
-    width: calc(33.33333333% - 20px);
+    width: calc(20% - 24px);
     margin-bottom: 30px;
     float: left;
     background: #ccc;
